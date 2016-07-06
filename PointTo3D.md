@@ -14,6 +14,7 @@ The software used in this workflow is **Quantum GIS or QGIS** for short. QGIS is
 
 Create a point shapefile
 --------------
+The data used for this workflow can be downloaded here. It the median values for bones for hue, brightness and saturation.
 
   1. Collect or ensure that you have a comma-separated file (.csv) with values of x,y,z as seen below. Our example below uses median values for hue, brightness and saturation of images.
 
