@@ -98,6 +98,6 @@ In this particular case, the final 3D object will be printed on a makerbot print
 
   5. The exported .stl can then be used to print on a makerbot printer.
 
-  6. If you need to adjust the size or scale of the 3D object, consider using Meshlab.
+  6. If you need to convert to a different format or adjust the size or scale of the 3D object, consider using Meshlab.
 
 *Meshlab is a free tool that can be used to view and convert between multiple 3D object formats. Meshlab can be downloaded here - http://meshlab.sourceforge.net/*
