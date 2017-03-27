@@ -47,7 +47,7 @@ Your data is now viewed in 2D space and represented as permanent point file. Eac
 
 ![image3](images/identify.png "save as shapefile")
 
- The underlying attribute table will appear, indicating the value of x,y and most importantly the z.
+ The underlying attribute table will appear, indicating the value of x,y and most importantly the z value.
 
 Create a Digital Elevation Model
 ------------------
