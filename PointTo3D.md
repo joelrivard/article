@@ -54,7 +54,7 @@ Create a Digital Elevation Model
 
 Our next step is to fill in the gaps between the points. To do so, we'll convert the vector point geometry to raster pixels by using an interpolation tool in QGIS. This is quite common in a GIS software, where users attempt to interpolate the elevation of the area with use the spot height points. The output product from this operation is called a digital elevation model (DEM). We'll do the same here with our non-geographic data.
 
-  1. We'll first need to add a plugin. In the menu go to **Plugins** > **Manage and Install Plugins...**. Search for **Processing** and install the **Processing** plugin. Click on the box next to the Processing to activate the plugin.
+  1. We'll first need to add a plugin in QGIS. In the menu go to **Plugins** > **Manage and Install Plugins...**. Search for **Processing** and install the **Processing** plugin. Click on the box next to the Processing to activate the plugin.
 
   2. In QGIS, click on **View** > **Panels** > **Toolbox**.
 
