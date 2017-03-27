@@ -94,8 +94,8 @@ In this particular case, the final 3D object will be printed on a makerbot print
 
   4. Select the **InterpolateIDW** layer and for the **print extent**, click the extent icon (middle button) to set the extent of the export. Ensure that the spacing is set to **0.3** and that the width is set to **100**. The length and the scale should fill in automatically. Lastly, set the height to match the lowest point. Once complete, click on **Export to STL**. Once prompted to save the file, select the appropriate directory.
 
-    ![image9](images/stl_settings.png "settings for export to stl")
-    ![image1](images/csv.png "viewing the csv file")
+![image9](images/stl_settings.png "settings for export to stl")
+
 
   5. The exported .stl can then be used to print on a makerbot printer.
 
