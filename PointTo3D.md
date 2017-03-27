@@ -60,7 +60,7 @@ Our next step is to fill in the gaps between the points. To do so, we'll convert
 
   ![image4](images/toolbox.png "add the toolbox")
 
-    This will open up the **Processing Toolbox** window on the right. We'll be using one of the interpolation tools from this toolbox to create our Digital Elevation Model (DEM).
+This will open up the **Processing Toolbox** window on the right. We'll be using one of the interpolation tools from this toolbox to create our Digital Elevation Model (DEM).
 
   3. In the **Processing Toolbox** search box, type **v.surf**. This will bring up various interpolation methods that can be used for your interpolation. We'll use one of the tools from GRASS (Geographic Resources Analysis Support System), which are open source tools that are integrated in QGIS.
 
@@ -68,7 +68,7 @@ Our next step is to fill in the gaps between the points. To do so, we'll convert
 
   4. Double click on the **v.surf.idw - surface interpolation by...** The IDW in this particular case refers to the interpolation method of Inverse-Distance Weighted. This method essentially gives less weight to known points that are furthest when trying to interpolate the values between the points.
 
-  5. Fill in the information as displayed in the image below to save the interpolated file as a tif file. Click **Run** and let the algorithm run. Once complete the output will be added to the Layers Panel.
+  5. Fill in the information as displayed in the image below to save the interpolated file as a tif image file. Click **Run** and let the algorithm run. Once complete the output will be added to the Layers Panel.
 
   ![image6](images/interpolation_settings.png "settings for interpolation")
 
