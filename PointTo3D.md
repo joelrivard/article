@@ -6,7 +6,7 @@ In the description of this workflow, users are looking to print a 3D object from
 
 Software used
 -------
-The software used in this workflow is **Quantum GIS or QGIS**. QGIS is a free open source desktop geographic information systems (GIS) application that allows users to view, edit and analyze geographic information. Users can download the tool for Windows, MAC OS X or Linux at the following website. http://www.qgis.org/en/site/forusers/download.html. The workflow below was done using QGIS 2.14 (long-term release as of April 2017) using MAC OS X. Install in this order:
+The software used in this workflow is **Quantum GIS or QGIS**. QGIS is a free open source desktop geographic information systems (GIS) application that allows users to view, edit and analyze geographic information. Users can download the tool for Windows, MAC OS X or Linux at the following website. http://www.qgis.org/en/site/forusers/download.html. The workflow below was done using QGIS 2.14 (long-term release as of March 2017) using MAC OS X. Install in this order:
   - **1 GDAL Complete.pkg**
   - **2 NumPy.pkg**
   - **3 matplotlib.pkg**
@@ -95,6 +95,7 @@ In this particular case, the final 3D object will be printed on a makerbot print
   4. Select the **InterpolateIDW** layer and for the **print extent**, click the extent icon (middle button) to set the extent of the export. Ensure that the spacing is set to **0.3** and that the width is set to **100**. The length and the scale should fill in automatically. Lastly, set the height to match the lowest point. Once complete, click on **Export to STL**. Once prompted to save the file, select the appropriate directory.
 
     ![image9](images/stl_settings.png "settings for export to stl")
+    ![image1](images/csv.png "viewing the csv file")
 
   5. The exported .stl can then be used to print on a makerbot printer.
 
