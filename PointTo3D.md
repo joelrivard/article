@@ -43,7 +43,7 @@ The data used for this workflow can be [downloaded here](/data/Xhue_Ybright_Medi
 
   6. In the Layers Panel, remove the temporary point file by right clicking on the file and clicking **remove**. You'll want to have only the pointfilepseudo in the Layers Panel.
 
-Your data is now viewed in 2D space and represented as permanent point file. Each point (x,y) has a z value associated to it, even if we can't see it, yet. You can view this z value by clicking on identify tool in QGIS and then clicking on a point.
+Your data is now viewed in 2D space and represented as permanent point file. Each point (x,y) has a z value associated to it, even if we can't see it, yet. You can view the information from the z value by clicking on identify tool in QGIS and then clicking on a point.
 
 ![image3](images/identify.png "save as shapefile")
 
