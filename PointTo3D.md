@@ -6,7 +6,7 @@ In the description of this workflow, users are looking to print a 3D object from
 
 Software used
 -------
-The software used in this workflow is **Quantum GIS or QGIS**. QGIS is a free open source desktop geographic information systems (GIS) application that allows users to view, edit and analyze geographic information. Users can download the tool for Windows, MAC OS X or Linux at the following website. http://www.qgis.org/en/site/forusers/download.html. The workflow below was done using QGIS 2.14.12-1 (future long-term release as of April 2016) using MAC OS X. Install in this order:
+The software used in this workflow is **Quantum GIS or QGIS**. QGIS is a free open source desktop geographic information systems (GIS) application that allows users to view, edit and analyze geographic information. Users can download the tool for Windows, MAC OS X or Linux at the following website. http://www.qgis.org/en/site/forusers/download.html. The workflow below was done using QGIS 2.14 (long-term release as of April 2016) using MAC OS X. Install in this order:
   - **1 GDAL Complete.pkg**
   - **2 NumPy.pkg**
   - **3 matplotlib.pkg**
