@@ -2,7 +2,7 @@ Workflow for converting from x,y,z to a 3D object using open source tools
 ===================
 Introduction
 ---------------
-In the description of this workflow, users are looking to print a 3D object from point values represented as x,y,z.The values inputed for x and y will represent your data in a 2D space, while the addition of the z value will add the 3rd dimension. The method outlined below is typically used to display elevation data in a geographic context, but it can also be used with other types of data. The method below will use non-geographic data to create a 3D object file.
+In the description of this workflow, users are looking to print a 3D object from point values represented as x,y,z. The values inputed for x and y will represent your data in a 2D space, while the addition of the z value will add the 3rd dimension. The method outlined below is typically used to display elevation data in a geographic context, but it can also be used with other types of data. The method below will use non-geographic data to create a 3D object file.
 
 Software used
 -------
